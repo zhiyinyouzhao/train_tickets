@@ -3,7 +3,7 @@
 ## 安装说明：
 		cd /opt
 		git clone git@github.com:zhiyinyouzhao/train_tickets.git
-		cd train_tickets.git
+		cd train_tickets
 		python setup.py install
 ## 使用说明：
 			Usage:
